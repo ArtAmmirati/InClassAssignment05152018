@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\bin\Debug\Card Select.exe.config
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\bin\Debug\Card Select.exe
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\bin\Debug\Card Select.pdb
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card Select.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card_Select.Form1.resources
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card_Select.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card Select.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card Select.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card Select.exe
+C:\Users\Cyberadmin\Desktop\InClassAssignment5152018\Card Select\obj\Debug\Card Select.pdb
